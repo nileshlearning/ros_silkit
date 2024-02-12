@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/SilKitDemoFlexray.dir/FlexrayDemo.cpp.o -o /home/kpit/SilKit-4.0.38-ubuntu-18.04-x86_64-gcc/SilKit/bin/SilKitDemoFlexray  -Wl,-rpath,/home/kpit/SilKit-4.0.38-ubuntu-18.04-x86_64-gcc/SilKit/lib /home/kpit/SilKit-4.0.38-ubuntu-18.04-x86_64-gcc/SilKit/lib/libSilKitd.so -lpthread 
